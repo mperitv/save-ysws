@@ -23,8 +23,8 @@ a{
     text-decoration: none;
 }
 button {
-    font-size: 30px;
-    padding: 10px 25px;
+    font-size: 40px;
+    padding: 10px 40px;
     border: 5px solid #e1374e;
     border-radius: 25px;
     cursor: pointer;
@@ -69,10 +69,10 @@ main {
     padding: 20px;
 }
 #save-logo{
-    width: min(400px, 80vw);
+    width: min(380px, 80vw);
     height: auto;
     display: block;
-    margin: 30px auto;
+    margin: 60px auto;
 
 }
 mark {
@@ -88,7 +88,7 @@ mark {
     border-radius: 50px;
     background-color: #fff3f4;
     margin: 10px auto;
-    padding: 10px 20px 10px 20px;
+    padding: 20px 60px 20px 60px;
     max-width: 800px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
 }
@@ -96,6 +96,7 @@ mark {
     border: 5px solid #e1374e;
     border-radius: 50px;
     background-color: #fff3f4;
+    margin: 20px auto;
     padding: 20px 60px 20px 60px;
     max-width: 800px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
