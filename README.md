@@ -16,6 +16,18 @@ a project to help kids to feel like they're in a dream!
   
 [Join #save](https://hackclub.enterprise.slack.com/archives/C0BPJLGLWCU)  
 
-[RSVP Here](https://rsvp.hackclub.community/save)
+[RSVP Here](https://rsvp.hackclub.community/save) (or you can click the RSVP button in the website)
 
 You can check the /save-website for website
+### Tech Stack for Website  
+HTML  
+CSS  
+WebStorm  
+Procreate  
+Git  
+
+There is no Artificial Intellangence used for coding the website. Only Github Copilot used for deployment workflow.
+
+<img width="1500" alt="Screenshot 2026-08-31 at 12 12 13 AM" src="https://github.com/user-attachments/assets/d1fc81f7-3e8d-4cc7-9de3-88fb31119c91" />
+<img width="1500" alt="Screenshot 2026-08-31 at 1 41 52 AM" src="https://github.com/user-attachments/assets/0dee654b-0513-48b9-8fed-ab1c17a57fd6" />  
+This project is for #horizons
