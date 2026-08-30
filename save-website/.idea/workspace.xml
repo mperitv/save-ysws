@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86f36465-73f5-41fe-80df-818413a7221b" name="Changes" comment="Refactor HTML structure and update content for clarity: improve viewport settings, enhance project instructions, and link to Make-A-Wish Foundation">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mperitv&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mperitv/save-website.git&quot;,
+    &quot;accountId&quot;: &quot;d8543aba-3a56-448c-9096-dbfa8d4b681d&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Hmc2lnH0KoSTPqcwdSqi6oMsSG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/fonts" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.8665.341" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86f36465-73f5-41fe-80df-818413a7221b" name="Changes" comment="" />
+      <created>1786476479683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786476479683</updated>
+      <workItem from="1786476480695" duration="1279000" />
+      <workItem from="1786477770632" duration="151000" />
+      <workItem from="1786478077623" duration="2013000" />
+      <workItem from="1786489425126" duration="750000" />
+      <workItem from="1786810277675" duration="802000" />
+      <workItem from="1786811121103" duration="1918000" />
+      <workItem from="1786888918162" duration="5983000" />
+      <workItem from="1787830227857" duration="5586000" />
+      <workItem from="1787914763059" duration="157000" />
+      <workItem from="1787915628025" duration="16129000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add html and css file">
+      <option name="closed" value="true" />
+      <created>1786478663461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786478663461</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Improve page layout and add some paragraphs">
+      <option name="closed" value="true" />
+      <created>1786480088681</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1786480088681</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add logo and refactor header and main sections for improved layout and styling">
+      <option name="closed" value="true" />
+      <created>1786813031175</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1786813031175</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add PlayfairDisplay font and apply it to headings and buttons">
+      <option name="closed" value="true" />
+      <created>1786909017431</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1786909017431</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Enhance styling and layout: update CSS for improved visuals and add animations; modify HTML for better structure and title">
+      <option name="closed" value="true" />
+      <created>1786915383206</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1786915383206</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update logo width to be responsive: change fixed width to a minimum of 400px or 80vw">
+      <option name="closed" value="true" />
+      <created>1786915686904</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1786915686904</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update button styles and improve header content: increase button font size and padding, adjust logo width, and revise text for clarity and impact">
+      <option name="closed" value="true" />
+      <created>1787911566183</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1787911566183</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Move .gitignore to root">
+      <option name="closed" value="true" />
+      <created>1787911795447</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1787911795447</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update text for clarity: revise message to reflect children's wishes in donation context">
+      <option name="closed" value="true" />
+      <created>1787912020068</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1787912020068</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add Open Graph meta tags for improved social sharing: include type, URL, title, description, and image">
+      <option name="closed" value="true" />
+      <created>1787913368263</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1787913368263</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Crop the og logo">
+      <option name="closed" value="true" />
+      <created>1787913623546</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1787913623546</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Resize the logo with no icons">
+      <option name="closed" value="true" />
+      <created>1787914813343</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1787914813343</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update Open Graph image and add project configuration files">
+      <option name="closed" value="true" />
+      <created>1787915709895</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1787915709895</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Refactor HTML structure and update content for clarity: improve viewport settings, enhance project instructions, and link to Make-A-Wish Foundation">
+      <option name="closed" value="true" />
+      <created>1788095779208</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1788095779208</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add html and css file" />
+    <MESSAGE value="Improve page layout and add some paragraphs" />
+    <MESSAGE value="Add logo and refactor header and main sections for improved layout and styling" />
+    <MESSAGE value="Add PlayfairDisplay font and apply it to headings and buttons" />
+    <MESSAGE value="Enhance styling and layout: update CSS for improved visuals and add animations; modify HTML for better structure and title" />
+    <MESSAGE value="Update logo width to be responsive: change fixed width to a minimum of 400px or 80vw" />
+    <MESSAGE value="Update button styles and improve header content: increase button font size and padding, adjust logo width, and revise text for clarity and impact" />
+    <MESSAGE value="Move .gitignore to root" />
+    <MESSAGE value="Update text for clarity: revise message to reflect children's wishes in donation context" />
+    <MESSAGE value="Add Open Graph meta tags for improved social sharing: include type, URL, title, description, and image" />
+    <MESSAGE value="Crop the og logo" />
+    <MESSAGE value="Resize the logo with no icons" />
+    <MESSAGE value="Update Open Graph image and add project configuration files" />
+    <MESSAGE value="Refactor HTML structure and update content for clarity: improve viewport settings, enhance project instructions, and link to Make-A-Wish Foundation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor HTML structure and update content for clarity: improve viewport settings, enhance project instructions, and link to Make-A-Wish Foundation" />
+  </component>
+</project>
