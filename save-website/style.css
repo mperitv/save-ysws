@@ -60,6 +60,76 @@ button {
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
     text-decoration: none;
 }
+body {
+    position: relative;
+    overflow-x: hidden;
+}
+
+.decoration {
+    position: absolute;
+    pointer-events: none;
+    z-index: 0;
+}
+
+header,
+main,
+footer {
+    position: relative;
+    z-index: 1;
+}
+.shine-1 {
+    width: 190px;
+    top: 70px;
+    right: 7%;
+    transform: rotate(12deg);
+}
+
+.star-1 {
+    width: 250px;
+    top: 420px;
+    left: 6%;
+    transform: rotate(-15deg);
+}
+
+.heart-1 {
+    width: 125px;
+    top: 760px;
+    right: 8%;
+    transform: rotate(14deg);
+}
+@keyframes float {
+    0%, 100% {
+        transform: translate(0, 0) rotate(var(--rotation));
+    }
+
+    50% {
+        transform: translate(8px, -22px) rotate(var(--rotation));
+    }
+}
+.shine-1 {
+    --rotation: 12deg;
+    animation: float 3.2s ease-in-out infinite;
+    filter: brightness(0) saturate(100%)
+    invert(79%) sepia(64%) saturate(500%)
+    hue-rotate(350deg) brightness(105%);
+}
+
+.star-1 {
+    --rotation: -15deg;
+    animation: float 4.5s ease-in-out infinite;
+    filter: brightness(0) saturate(100%)
+    invert(77%) sepia(40%) saturate(900%)
+    hue-rotate(165deg) brightness(100%);
+}
+
+.heart-1 {
+    --rotation: 14deg;
+    animation: float 3.8s ease-in-out infinite;
+    filter: brightness(0) saturate(100%)
+    invert(75%) sepia(20%) saturate(1200%)
+    hue-rotate(310deg) brightness(105%);
+}
+
 #rsvp-link {
     text-decoration: none;
 }
@@ -205,6 +275,23 @@ div {
     }
     button {
         font-size: 40px;
+    }
+    .shine-1 {
+        width: 65px;
+        top: 80px;
+        right: 2%;
+    }
+
+    .star-1 {
+        width: 55px;
+        top: 430px;
+        left: 2%;
+    }
+
+    .heart-1 {
+        width: 50px;
+        top: 800px;
+        right: 3%;
     }
 
 }
