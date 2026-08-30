@@ -28,11 +28,16 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       
-      - name: Create deployment directory
+      - name: Create deployment directory with correct structure
         run: |
           mkdir -p deploy
+          # Copy all files from save-website to root of deploy
           cp -r save-website/* deploy/
+          # Copy save-assets folder alongside the files
           cp -r save-assets deploy/
+          # List directory structure for debugging
+          ls -la deploy/
+          ls -la deploy/save-assets/
       
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
