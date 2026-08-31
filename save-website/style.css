@@ -28,6 +28,7 @@ body{
     margin: 40px auto;
     cursor: pointer;
     transition: transform 0.2s ease;
+    filter: drop-shadow(0 6px 8px rgba(0, 0, 0, 0.2));
 }
 #rsvp-button:hover {
     content: url("../save-assets/rsvp-button-hover.png");
@@ -165,7 +166,6 @@ main {
     height: auto;
     display: block;
     margin: 80px auto;
-
 }
 mark {
     background-color: #ffe381;
@@ -325,6 +325,26 @@ mark {
         width: 50px;
         top: 700px;
         right: 3%;
+    }
+
+    .faq-question img,
+    .faq-answer img {
+        width: 80vw;
+    }
+
+    .faq-item {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .faq-question {
+        align-self: center;
+        margin-left: 0;
+    }
+
+    .faq-answer {
+        align-self: center;
+        margin-right: 0;
     }
 
 }
