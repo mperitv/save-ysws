@@ -50,7 +50,7 @@ a:hover {
 button {
     font-size: 40px;
     padding: 10px 40px;
-    border: 5px solid #e1374e;
+    border: 5px solid #FF5665;
     border-radius: 25px;
     cursor: pointer;
     margin-top: 30px;
@@ -137,7 +137,7 @@ footer {
     text-decoration: none;
 }
 button:hover {
-    background-color: #e1374e;
+    background-color: #FF5665;
     color: white;
     transform: translateY(-3px) scale(1.05);
     box-shadow: 0 8px 15px rgba(255, 71, 87, 0.5);
@@ -185,21 +185,23 @@ mark {
     border-radius: 4px;
 }
 #save-introduction{
-    text-align: center;
-    margin: 10px auto;
-}
-
-div {
-    border: 5px solid #e1374e;
+    border: 5px solid #FF5665;
     border-radius: 50px;
     background-color: #fff3f4;
-    margin: 10px auto;
-    padding: 20px 60px 20px 60px;
+    padding: 20px 60px;
     max-width: 800px;
+    margin: 10px auto;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
 }
 #how-it-works{
+    border: 5px solid #FF5665;
+    border-radius: 50px;
+    background-color: #fff3f4;
     margin: 150px auto;
+    padding: 20px 60px;
+    max-width: 800px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
 }
 #how-it-works h3{
     font-size: 35px;
@@ -236,7 +238,7 @@ div {
     transition: transform 0.25s ease;
 }
 #how-it-works summary:hover {
-    color: #e1374e;
+    color: #FF5665;
 }
 #how-it-works details[open] .arrow {
     transform: rotate(45deg);
@@ -248,13 +250,45 @@ div {
     font-size: 19px;
     line-height: 1.6;
 }
+#faq {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    display: flex;
+    flex-direction: column;
+}
+#faq h3 {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: -160px;
+}
 
+.faq-question img,
+.faq-answer img {
+    width: 1000px;
+    max-width: 70vw;
+    height: auto;
+    display: block;
+}
 
+.faq-item {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: -400px;
+}
+.faq-question {
+    align-self: flex-start;
+    margin-left: 2vw;
+    margin-bottom: -550px;
+}
+.faq-answer {
+    align-self: flex-end;
+    margin-right: 2vw;
+}
 @media (max-width: 600px) {
     button {
         font-size: 30px;
         padding: 8px 30px;
-        border: 4px solid #e1374e;
+        border: 4px solid #FF5665;
         border-radius: 20px;
     }
     h3 {
