@@ -129,7 +129,9 @@ footer {
 }
 
 #rsvp-link {
-    text-decoration: none;
+    display: block;
+    width: 220px;
+    margin: 40px auto;
 }
 #rsvp-link:hover {
     text-decoration: none;
