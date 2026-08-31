@@ -31,7 +31,7 @@ body{
     filter: drop-shadow(0 6px 8px rgba(0, 0, 0, 0.2));
 }
 #rsvp-button:hover {
-    content: url("../save-assets/rsvp-button-hover.png");
+    content: url("save-assets/rsvp-button-hover.png");
     transform: scale(1.05);
 }
 h3 {
@@ -45,6 +45,8 @@ h4 {
 }
 
 p {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
     font-size: 25px;
     line-height: 1.6;
 }
@@ -273,7 +275,8 @@ mark {
     transform: translate(-50%, -50%);
 
     font-size: clamp(16px, 3.4vw, 40px);
-    font-family: 'PlayfairDisplay', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
     text-align: center;
     width: 65%;
 }
@@ -289,7 +292,8 @@ mark {
     transform: translate(-50%, -50%);
 
     font-size: clamp(8px, 1.7vw, 20px);
-    font-family: 'PlayfairDisplay', sans-serif;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
     text-align: center;
     width: 65%;
 }
