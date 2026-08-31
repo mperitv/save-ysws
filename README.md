@@ -28,6 +28,7 @@ Git
 
 There is no Artificial Intellangence used for coding the website. Only Github Copilot used for deployment workflow.
 
-<img width="1500" alt="Screenshot 2026-08-31 at 12 12 13 AM" src="https://github.com/user-attachments/assets/d1fc81f7-3e8d-4cc7-9de3-88fb31119c91" />
+<img width="1500" alt="Screenshot 2026-08-31 at 5 20 22 PM" src="https://github.com/user-attachments/assets/d5e99c5a-b782-4dcb-bab7-fa869c49b4ec" />
+
 <img width="1500" alt="Screenshot 2026-08-31 at 1 41 52 AM" src="https://github.com/user-attachments/assets/0dee654b-0513-48b9-8fed-ab1c17a57fd6" />  
 This project is for #horizons
